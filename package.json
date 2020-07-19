@@ -1,0 +1,20 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "An app made for a fullstack boot camp. it has a front end and back end that matches you with an array of friends based on a personality test!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnaporski/friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnaporski/friend-finder/issues"
+  },
+  "homepage": "https://github.com/jnaporski/friend-finder#readme"
+}
